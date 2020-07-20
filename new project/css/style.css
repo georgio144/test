@@ -1,0 +1,16 @@
+a {
+   color: red;
+   font-size: 20px;
+   margin: 20px;
+   padding: 25px;
+   display: block;
+   text-align: center;
+   text-decoration: none;
+}
+a:hover {
+   color: green;
+}
+body {
+   background: #000;
+}
+

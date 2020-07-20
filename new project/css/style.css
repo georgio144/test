@@ -11,7 +11,7 @@ a:hover {
    color: green;
 }
 body {
-   background: #000;
+   background-color: blue;
    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana,
       sans-serif;
 }
